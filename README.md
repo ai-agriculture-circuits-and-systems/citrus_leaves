@@ -31,7 +31,7 @@ The dataset consists of images of citrus leaves with two main categories:
 ## Dataset Structure
 
 ```
-citrus_leaves/
+data/
 ├── healthy/         # Contains images of healthy citrus leaves
 └── unhealthy/       # Contains images of unhealthy/diseased citrus leaves
 ```
